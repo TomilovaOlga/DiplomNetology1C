@@ -20,11 +20,11 @@
   <fullTextSearch>Use</fullTextSearch>
   <objectPresentation>
     <key>ru</key>
-    <value>Обслуживание</value>
+    <value>Обслуживание клиента</value>
   </objectPresentation>
   <listPresentation>
     <key>ru</key>
-    <value>Обслуживания</value>
+    <value>Обслуживания клиентов</value>
   </listPresentation>
   <numberType>String</numberType>
   <numberLength>9</numberLength>
@@ -93,6 +93,14 @@
         <dateFractions>Date</dateFractions>
       </dateQualifiers>
     </type>
+    <format>
+      <key>ru</key>
+      <value>ДФ=dd.MM.yyyy</value>
+    </format>
+    <editFormat>
+      <key>ru</key>
+      <value>ДФ=dd.MM.yyyy</value>
+    </editFormat>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
     <fillValue xsi:type="core:UndefinedValue"/>
@@ -161,6 +169,7 @@
       <types>String</types>
       <stringQualifiers/>
     </type>
+    <multiLine>true</multiLine>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
     <fillValue xsi:type="core:UndefinedValue"/>
