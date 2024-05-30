@@ -19,4 +19,7 @@
   <content>Role.ВКМ_ИспользованиеОбработкиМассовоеСозданиеАктов</content>
   <content>DataProcessor.ВКМ_ОтладкаЗадания</content>
   <content>Catalog.ВКМ_ОбслуживаниеКлиентаПрисоединенныеФайлы</content>
+  <content>Report.ВКМ_АнализВыставленныхАктов</content>
+  <content>Report.ВКМ_ВыработкаСпециалистов</content>
+  <content>Role.ВКМ_ИспользованиеОтчетаПоАнализуВыставленныхАктов</content>
 </mdclass:Subsystem>

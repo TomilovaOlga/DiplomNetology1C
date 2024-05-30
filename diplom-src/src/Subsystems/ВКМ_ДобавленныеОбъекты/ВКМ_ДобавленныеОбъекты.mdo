@@ -35,4 +35,12 @@
   <content>Document.ВКМ_ГрафикОтпусков</content>
   <content>Role.ВКМ_ДобавлениеИзменениеДокументовЗарплаты</content>
   <content>Role.ВКМ_ДобавлениеИзменениеГрафикаОтпусков</content>
+  <content>Report.ВКМ_АнализВыставленныхАктов</content>
+  <content>Report.ВКМ_ВыработкаСпециалистов</content>
+  <content>Report.ВКМ_РасчетыССотрудниками</content>
+  <content>Report.ВКМ_РасходЗапланированныхОтпусков</content>
+  <content>Role.ВКМ_ИспользованиеОтчетаПоРасходуЗапланированныхОтпусков</content>
+  <content>Role.ВКМ_ИспользованиеОтчетаПоАнализуВыставленныхАктов</content>
+  <content>Role.ВКМ_ИспользованиеОтчетаПоРасчетамССотрудниками</content>
+  <content>Role.ВКМ_ИспользованиеОтчетаПоВыработкеСпециалистов</content>
 </mdclass:Subsystem>
