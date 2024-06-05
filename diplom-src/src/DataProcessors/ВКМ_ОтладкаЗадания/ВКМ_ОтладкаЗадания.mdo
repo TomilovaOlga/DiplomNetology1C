@@ -9,7 +9,6 @@
     <key>ru</key>
     <value>ВКМ отладка задания</value>
   </synonym>
-  <useStandardCommands>true</useStandardCommands>
   <defaultForm>DataProcessor.ВКМ_ОтладкаЗадания.Form.Форма</defaultForm>
   <forms uuid="3a812a83-942a-4142-9702-63f3d145edda">
     <name>Форма</name>
