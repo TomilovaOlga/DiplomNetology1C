@@ -101,9 +101,6 @@
 				<v8:DateFractions>Date</v8:DateFractions>
 			</v8:DateQualifiers>
 		</valueType>
-		<value xsi:type="v8:StandardPeriod">
-			<v8:variant xsi:type="v8:StandardPeriodVariant">Custom</v8:variant>
-		</value>
 		<useRestriction>true</useRestriction>
 		<expression>Год(&amp;Период.ДатаНачала)</expression>
 	</parameter>
@@ -120,6 +117,8 @@
 		</valueType>
 		<value xsi:nil="true"/>
 		<useRestriction>false</useRestriction>
+		<denyIncompleteValues>true</denyIncompleteValues>
+		<use>Always</use>
 	</parameter>
 	<template>
 		<name>Макет1</name>
